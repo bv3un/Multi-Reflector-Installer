@@ -26,7 +26,7 @@ then
   exit 0
 fi
 DIRDIR=$(pwd)
-XLXDREPO=https://github.com/LX3JL/xlxd.git
+XLXDREPO=https://github.com/bv3un/xlxd.git
 YSF2DMRREPO=https://github.com/juribeparada/MMDVM_CM.git
 YSFREPO=https://github.com/g4klx/YSFClients.git
 YSFDASHREPO=https://github.com/dg9vh/YSFReflector-Dashboard.git
